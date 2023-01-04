@@ -1,2 +1,1 @@
-# tindog
-Made in udemy class
+TinDog Starting Files
